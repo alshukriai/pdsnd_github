@@ -4,6 +4,8 @@ import pandas as pd
 import numpy as np
 import os
 
+#jfjklnnjkfdv
+
 os.chdir('/Users/pro/Desktop/All projects/Udacity/\python and SQL for DS/3-python programming for DS')
 print(os.getcwd())
 
