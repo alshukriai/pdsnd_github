@@ -1,16 +1,18 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created:
-Include the date you created this project and README file.
+Created on May 21, 2021.
 
 ### Project Title:
-Replace the Project Title
+Udacity Version Control Project
 
 ### Description:
-Describe what your project is about and what it does
+In this project i will use all the knowledge i learned in this course, and apply it on a previously made repository. The tasks include fork, clone, add, commit, check status, create branches and navigate between different ones, and more.
 
 ### Files used:
-Include all used Files
+Required software:
+
+Atom text editor, and git bash
 
 ### Credits:
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits to Udacity instructor that helped me grasp all these new concepts.
